@@ -3,12 +3,13 @@
         "_id": "010",
         "title": "React",
         "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.",
-        "image": "https://i.ibb.co/cDmLrw0/1.jpg",
+        "image": "../images/1.jpg",
         "author": {
             "name": "Jimmy Dane",
             "published_date": "2022-08-24 17:27:34",
-            "img": "https://i.ibb.co/5BVgM3z/1.jpg"
+            "img": "../images/i1.jpg"
         },
+        "price": "80",
         "total-enrolled": "2315",
         "completed": "1674",
         "videos": "46",
@@ -18,12 +19,13 @@
         "_id": "011",
         "title": "GraphQL",
         "description": "GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.",
-        "image": "https://i.ibb.co/ZMB12RZ/2.jpg",
+        "image": "../images/2.jpg",
         "author": {
             "name": "Browsy Rown",
             "published_date": "2021-05-13 02:45:34",
-            "img": "https://i.ibb.co/M6m8Pgs/2.jpg"
+            "img": "../images/i2.jpg"
         },
+        "price": "55",
         "total-enrolled": "815",
         "completed": "719",
         "videos": "16",
@@ -33,12 +35,13 @@
         "_id": "012",
         "title": "Angular",
         "description": "Angular is a development platform, built on TypeScript. As a platform, Angular includes. A component-based framework for building scalable web applications A collection of well-integrated libraries that cover a wide variety of features, including routing, forms management, client-server communication, and more. A suite of developer tools to help you develop, build, test, and update your code",
-        "image": "https://i.ibb.co/CQB5Cn3/3.jpg",
+        "image": "../images/3.jpg",
         "author": {
             "name": "Alisa Tusaz",
             "published_date": "2022-01-11 12:25:34",
-            "img": "https://i.ibb.co/Trn09rR/3.jpg"
+            "img": "../images/i3.jpg"
         },
+        "price": "75",
         "total-enrolled": "1463",
         "completed": "1244",
         "videos": "37",
@@ -48,12 +51,13 @@
         "_id": "013",
         "title": "Python",
         "description": "Python's core features make it a popular option for web development. Firstly, Python is free, open-source, and widely available. More importantly, though, it is also highly adaptable. Python allows developers to create websites according to several different programming paradigms.",
-        "image": "https://i.ibb.co/dMBSXLb/4.jpg",
+        "image": "../images/4.jpg",
         "author": {
             "name": "Jimmy Dane",
             "published_date": "2022-08-24 17:27:34",
-            "img": "https://i.ibb.co/5BVgM3z/1.jpg"
+            "img": "../images/i2.jpg"
         },
+        "price": "45",
         "total-enrolled": "946",
         "completed": "728",
         "videos": "22",
@@ -63,12 +67,13 @@
         "_id": "014",
         "title": "JavaScript",
         "description": "JavaScript is a powerful and flexible programming language. It can execute on a web browser that allows us to make interactive webpages such as popup menus, animations, form validation, etc. JavaScript has evolved a lot in the past decade. Our JavaScript tutorials will help you understand the core concepts of modern JavaScript, one step at a time.",
-        "image": "https://i.ibb.co/WtrDxgb/5.jpg",
+        "image": "../images/5.jpg",
         "author": {
             "name": "Browsy Rown",
             "published_date": "2021-05-13 02:45:34",
-            "img": "https://i.ibb.co/M6m8Pgs/2.jpg"
+            "img": "../images/i3.jpg"
         },
+        "price": "30",
         "total-enrolled": "1403",
         "completed": "1367",
         "videos": "19",
@@ -78,12 +83,13 @@
         "_id": "015",
         "title": "CSS3",
         "description": "CSS stands for Cascading Style Sheets. CSS is a standard style sheet language used for describing the presentation (i.e. the layout and formatting) of the web pages. Prior to CSS, nearly all of the presentational attributes of HTML documents were contained within the HTML markup (specifically inside the HTML tags); all the font colors, background styles, element alignments, borders and sizes had to be explicitly described within the HTML.",
-        "image": "https://i.ibb.co/kyFvtC5/7.jpg",
+        "image": "../images/7.jpg",
         "author": {
             "name": "Alisa Tusaz",
             "published_date": "2022-01-11 12:25:34",
-            "img": "https://i.ibb.co/Trn09rR/3.jpg"
+            "img": "../images/i1.jpg"
         },
+        "price": "25",
         "total-enrolled": "3473",
         "completed": "2758",
         "videos": "31",
